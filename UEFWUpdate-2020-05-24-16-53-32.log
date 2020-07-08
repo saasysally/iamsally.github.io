@@ -1,0 +1,68 @@
+TRACE 2020-05-24T16:53:32.395 Application launch 
+TRACE 2020-05-24T16:53:32.396 Attempting to use "" language 
+TRACE 2020-05-24T16:53:32.396 Language file not found, attempting "en-US" 
+TRACE 2020-05-24T16:53:32.397 Creating main window for application 
+TRACE 2020-05-24T16:53:32.795 HID device arrival:  Vendor "46d" product "a62" 
+TRACE 2020-05-24T16:53:32.801 "Set report:  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 " 
+TRACE 2020-05-24T16:53:32.805 "Set report:  a2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 " 
+TRACE 2020-05-24T16:53:32.805 Changing state from 0 to 1 
+TRACE 2020-05-24T16:53:32.805 Executing command 90 
+TRACE 2020-05-24T16:53:32.809 "Set report:  5a 0 0 0 0 0 0 0 80 c3 b3 1 0 60 0 0 30 42 62 1 0 60 0 0 98 5b a7 6a ff 7f 0 0 0 10 fb d 1 0 0 0 50 14 43 e2 fe 7f 0 0 49 0 0 0 0 0 0 0 98 5b a7 6a ff 7f 0 0 0 10 fb d 1 0 0 0 e0 e0 50 c4 83 7f 0 0 cc 0 0 0 0 0 0 0 98 5b a7 6a ff 7f 0 0 0 10 fb d 1 0 0 0 e0 e0 50 c4 83 7f 0 0 80 0 0 0 0 0 0 0 1c 5a a7 6a ff 7f 0 " 
+TRACE 2020-05-24T16:53:32.810 DFU device arrival:  Vendor "46d" product "a62" 
+TRACE 2020-05-24T16:53:32.811 DFU device arrival:  Vendor "5ac" product "1463" 
+TRACE 2020-05-24T16:53:32.811 DFU device arrival:  Vendor "5ac" product "1018" 
+TRACE 2020-05-24T16:53:32.811 DFU device arrival:  Vendor "5ac" product "1017" 
+TRACE 2020-05-24T16:53:32.811 DFU device arrival:  Vendor "5ac" product "27d" 
+TRACE 2020-05-24T16:53:32.811 DFU device arrival:  Vendor "5ac" product "8262" 
+TRACE 2020-05-24T16:53:32.811 DFU device arrival:  Vendor "5ac" product "8102" 
+TRACE 2020-05-24T16:53:32.811 DFU device arrival:  Vendor "5ac" product "8514" 
+TRACE 2020-05-24T16:53:32.811 DFU device arrival:  Vendor "5ac" product "8103" 
+TRACE 2020-05-24T16:53:32.812 DFU device arrival:  Vendor "5ac" product "8302" 
+TRACE 2020-05-24T16:53:32.812 DFU device arrival:  Vendor "5ac" product "8233" 
+TRACE 2020-05-24T16:53:32.812 DFU device arrival:  Vendor "5ac" product "8007" 
+TRACE 2020-05-24T16:53:32.812 DFU device arrival:  Vendor "5ac" product "8007" 
+TRACE 2020-05-24T16:53:32.813 Initializing user interface for main window 
+TRACE 2020-05-24T16:53:32.961 Initializing display pages for application 
+TRACE 2020-05-24T16:53:32.961 Creating device connection page 
+TRACE 2020-05-24T16:53:32.967 Creating ready to upgrade page 
+TRACE 2020-05-24T16:53:32.967 Creating key cleanup page 
+TRACE 2020-05-24T16:53:32.967 Creating bootloader installer page 
+TRACE 2020-05-24T16:53:32.968 Creating firmware upgrade page 
+TRACE 2020-05-24T16:53:32.968 Creating image upload page 
+TRACE 2020-05-24T16:53:32.968 Creating success page 
+TRACE 2020-05-24T16:53:32.968 Creating error page 
+TRACE 2020-05-24T16:53:32.968 Initializing device connection page 
+TRACE 2020-05-24T16:53:33.002 Starting application run loop 
+TRACE 2020-05-24T16:53:33.015 Performing post-initialization for device connection page 
+TRACE 2020-05-24T16:53:33.039 Handling report of size 67 
+TRACE 2020-05-24T16:53:33.039 "Report:  0 a 0 d 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 " 
+TRACE 2020-05-24T16:53:33.039 Version: "10.0.13"  ( 10 ,  0 ,  13 ) 
+TRACE 2020-05-24T16:53:33.039 Handling report of size 67 
+TRACE 2020-05-24T16:53:33.039 "Report:  0 a2 5 d 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 " 
+TRACE 2020-05-24T16:53:33.039 Handling report of size 67 
+TRACE 2020-05-24T16:53:33.039 "Report:  0 5a 19 0 0 0 6 7 f7 fc 3 2 6c 0 1 2 6c 0 1 2 6c 0 1 0 a0 0 1 f 4f fc 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 " 
+TRACE 2020-05-24T16:53:33.039 Check partition state response 
+TRACE 2020-05-24T16:53:33.039 Partition table size 65 
+TRACE 2020-05-24T16:53:33.039 Payload size 25 
+TRACE 2020-05-24T16:53:33.039 Number of partitions 6 
+TRACE 2020-05-24T16:53:33.039 Changing state from 1 to 2 
+TRACE 2020-05-24T16:53:33.039 Executing command 19 
+TRACE 2020-05-24T16:53:33.043 "Set report:  13 0 0 0 0 0 0 0 80 6b b5 1 0 60 0 0 80 e5 62 1 0 60 0 0 98 5b a7 6a ff 7f 0 0 0 10 fb d 1 0 0 0 60 ea 42 e2 fe 7f 0 0 49 0 0 0 0 0 0 0 98 5b a7 6a ff 7f 0 0 0 10 fb d 1 0 0 0 e0 e0 50 c4 83 7f 0 0 cc 0 0 0 0 0 0 0 98 5b a7 6a ff 7f 0 0 0 10 fb d 1 0 0 0 e0 e0 50 c4 83 7f 0 0 80 0 0 0 0 0 0 0 1c 5a a7 6a ff 7f 0 " 
+TRACE 2020-05-24T16:53:33.053 Handling report of size 67 
+TRACE 2020-05-24T16:53:33.053 "Report:  0 13 0 0 0 0 6 7 f7 fc 3 2 6c 0 1 2 6c 0 1 2 6c 0 1 0 a0 0 1 f 4f fc 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 " 
+TRACE 2020-05-24T16:53:33.053 Current language: 0 
+TRACE 2020-05-24T16:53:33.053 Changing state from 2 to 3 
+TRACE 2020-05-24T16:53:33.053 Executing command 162 
+TRACE 2020-05-24T16:53:33.058 "Set report:  a2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 " 
+TRACE 2020-05-24T16:53:33.065 Handling report of size 67 
+TRACE 2020-05-24T16:53:33.065 "Report:  0 a2 5 0 0 0 6 7 f7 fc 3 2 6c 0 1 2 6c 0 1 2 6c 0 1 0 a0 0 1 f 4f fc 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 " 
+TRACE 2020-05-24T16:53:36.297 Navigating to next page 
+TRACE 2020-05-24T16:53:36.298 Uninitializing device connection page 
+TRACE 2020-05-24T16:53:36.298 Initializing ready to upgrade page 
+TRACE 2020-05-24T16:53:36.298 Partition table size 65 
+TRACE 2020-05-24T16:53:36.298 Payload size 25 
+TRACE 2020-05-24T16:53:36.298 Number of partitions 6 
+TRACE 2020-05-24T16:53:36.298 Speaker is up to date 
+TRACE 2020-05-24T16:53:36.301 Performing post-initialization for ready to upgrade page 
+TRACE 2020-05-24T16:53:38.392 Uninitializing ready to upgrade page 
+TRACE 2020-05-24T16:53:38.405 Application terminating with exit code  0 
